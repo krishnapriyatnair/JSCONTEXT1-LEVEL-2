@@ -1,7 +1,9 @@
 /* You can write your codes here  */
 body{
+
     background-color: cornsilk;
     border: 30px;
+    border-radius: 20px;
     border-color: red;
     text-align: center;
     padding:30px;
